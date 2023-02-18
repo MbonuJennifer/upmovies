@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "upmovies"
+  "cli": {
+    "analytics": false
+  }
 }
